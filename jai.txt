@@ -1,0 +1,6 @@
+class {
+psvm(string[] args)
+{
+syso("Hello man");
+}
+}
