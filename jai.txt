@@ -4,3 +4,4 @@ psvm(string[] args)
 syso("Hello man");
 }
 }
+//first code is written well//
